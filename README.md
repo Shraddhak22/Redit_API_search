@@ -1,5 +1,5 @@
 ## Purpse
-To explore the redit api
+To explore the redit api and parcel-bundler package
 
 ## How to run the project
 1) Clone the repository
